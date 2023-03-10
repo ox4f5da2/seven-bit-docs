@@ -1,0 +1,1 @@
+import{_ as o,r as s,o as t,c as _,a}from"../app.694ff86d.js";const c={},n={class:".upload-demo"};function r(d,l){const e=s("sb-upload");return t(),_("div",n,[a(e,{drag:"true"})])}const u=o(c,[["render",r]]);export{u as default};
