@@ -1,5 +1,7 @@
 # 文档编写
 
+## 组件库项目文档地址：https://ox4f5da2.github.io/seven-bit-docs/
+
 ## 项目结构目录
 ```
 .
